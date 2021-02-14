@@ -2,6 +2,8 @@
 Arduino Logitech 3D Joystick to PPM output
 Version V01
 
+Se debe usar un arduino uno o mega con una shield USB host, y la trama PPM que va a la emisora, sale por el pin D2 del arduino.
+
 Los canales de salida de la señal PPM estan controlados por los siguientes controles del joystick:
   Eje X controla el canal 1.
   Eje Y controla el canal 2.
