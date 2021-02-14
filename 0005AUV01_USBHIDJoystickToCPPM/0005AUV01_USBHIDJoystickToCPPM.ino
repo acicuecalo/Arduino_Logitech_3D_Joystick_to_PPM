@@ -17,7 +17,7 @@
 
   Control de versiones:
   V00 12/feb/2021, versión inicial.
-  V01 13/feb/2021, control incremental de canales 5 y 6 desde el hat y control de modos en canales 7 y 8.
+  V01 14/feb/2021, control incremental de canales 5 y 6 desde el hat y control de modos en canales 7 y 8.
 
   Este código utiliza la librería de Ben Vrewer Bowman para leer info del Joystick desde la USB Host Shield:
   https://github.com/BenBrewerBowman/Arduino_Logitech_3D_Joystick
