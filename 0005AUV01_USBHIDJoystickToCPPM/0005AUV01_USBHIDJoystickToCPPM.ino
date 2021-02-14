@@ -22,7 +22,8 @@
   Este código utiliza la librería de Ben Vrewer Bowman para leer info del Joystick desde la USB Host Shield:
   https://github.com/BenBrewerBowman/Arduino_Logitech_3D_Joystick
 
-  También se necesita tener instalada la librería: "USB_Host_Shield_2.0-master".
+  También se necesita tener instalada la librería: "USB_Host_Shield_2.0-master":
+  https://www.arduinolibraries.info/libraries/usb-host-shield-library-2-0
 */
 
 
